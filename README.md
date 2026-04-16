@@ -11,6 +11,10 @@ Additional guidance:
 - generic usage guidance: [BEST_PRACTICES.md](/C:/Users/akito/DotNetHarness/BEST_PRACTICES.md)
 - repo-specific dogfooding notes: [DOGFOODING.md](/C:/Users/akito/DotNetHarness/DOGFOODING.md)
 
+## Quick Start
+```
+dnx dnrelay
+```
 ## Status
 
 Current commands:
