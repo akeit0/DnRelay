@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/DnRelay.BuildWarningSmokeApp/DnRelay.BuildWarningSmokeApp.csproj" />
+    <Project Path="samples/DnRelay.BuildErrorSmokeApp/DnRelay.BuildErrorSmokeApp.csproj" />
+    <Project Path="samples/DnRelay.BenchSmokeApp/DnRelay.BenchSmokeApp.csproj" />
+    <Project Path="samples/DnRelay.BenchSingleSmokeApp/DnRelay.BenchSingleSmokeApp.csproj" />
+    <Project Path="samples/DnRelay.BenchFailureSmokeApp/DnRelay.BenchFailureSmokeApp.csproj" />
+    <Project Path="samples/DnRelay.RunSmokeApp/DnRelay.RunSmokeApp.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/DnRelay/DnRelay.csproj" />
+    <Project Path="src/DnRelay.Tool/DnRelay.Tool.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DnRelay.FailureSmokeTests/DnRelay.FailureSmokeTests.csproj" />
+    <Project Path="tests/DnRelay.NUnitSmokeTests/DnRelay.NUnitSmokeTests.csproj" />
+    <Project Path="tests/DnRelay.SmokeTests/DnRelay.SmokeTests.csproj" />
+  </Folder>
+</Solution>

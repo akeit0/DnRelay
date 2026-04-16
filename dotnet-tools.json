@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "dnrelay": {
+      "version": "0.1.37",
+      "commands": [
+        "dnrelay"
+      ],
+      "rollForward": false
+    },
+    "dnrelay.tool": {
+      "version": "0.1.0",
+      "commands": [
+        "dnrelay-tool"
+      ],
+      "rollForward": false
+    }
+  }
+}
