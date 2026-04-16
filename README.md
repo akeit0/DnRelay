@@ -675,3 +675,5 @@ dnrelay stats --help
 dnrelay kill --help
 dnrelay-tool tool-refresh --help
 ```
+## LICENSE
+MIT
